@@ -10,3 +10,8 @@ c.	Pengguna bisa melakukan pencarian daftar pasien yang memilih paket tertentu. 
 
 d.	Pengguna bisa menampilkan data pasien terurut berdasarkan waktu MCU, terurut berdasarkan paket MCU yang dipilih.
 
+Author:
+
+Muhammad Zibran Santosa
+
+Dzaky Renaldy
